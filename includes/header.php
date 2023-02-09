@@ -12,11 +12,11 @@
               </div>
               <div class="top-log">
                 <ul>
-                  <li><a href="#">Admin</a></li> <!--Removed Link admin/login.php -->
-                  <li><a href="#">Contact</a></li> <!-- Removed Link contact.php-->
+                  <li><a href="admin/login.php">Admin</a></li> <!--Removed Link admin/login.php -->
+                  <li><a href="contact.php">Contact</a></li> <!-- Removed Link contact.php-->
                  <li><a href="#">Eligibility</a></li> <!-- Removed Link eligibility.php-->
                 <li><a href="#">Rules</a></li> <!-- Removed Link rules.php-->
-                 <li><a href="#">Search</a></li> <!-- Removed Link search.php-->
+                 <li><a href="search.php">Search</a></li> <!-- Removed Link search.php-->
                 </ul>
                   <div class="clearfix"> </div> 
               </div>  

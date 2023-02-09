@@ -109,17 +109,17 @@ while ($row=mysqli_fetch_array($ret)) {
 						<div class="event-section">
 				 				<div class="col-md-4">
 				 					<div class="client-img">
-					 					<img style = "height: 257px; width: 358px;" src="https://www.usnews.com/object/image/00000185-10f5-d439-a1cf-93f728000000/gettyimages-1413583709.jpg?update-time=1671026969308&size=responsive640" title="" />
+					 					<img style = "height: 257px; width: 358px;" src="https://lh3.googleusercontent.com/9sWrfgGDG0Bn13MtYWt6Fm-owThYeJBu4tLZyB4Y7apsxt2aRC3LjxnCaVcjV_3ORbQTvH4R6O41T_nE2w88qzEBIDIWEg=s1000" title="" />
 									</div>
 					 			</div>
 				 				<div class="col-md-4">
 				 					<div class="client-img">
-					 					<img style = "height: 257px; width: 358px;" src="https://www.greatseniorliving.com/assets/img/article-assisted-living-vs-nursing-homes-@1X.jpg" title="" />
+					 					<img style = "height: 257px; width: 358px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbA4jAJ9hSeowBqtQekgcaF-cEYeI36ZbNo4qDCSUo4MwivRd5VlVl4XZRLw8YOixF878&usqp=CAU" title="" />
 									</div>	
 				 				</div>
 				 				<div class=" col-md-4">
 				 					<div class="client-img">
-					 					<img style = "height: 257px; width: 358px;" src="https://cdn.reveraliving.com/-/media/images/life-at-revera/difference-ltcret/retvsltc_retirement.jpg?rev=159d143682f14af48cea4787310f7f9c&cx=0.48&cy=0.71&cw=535&ch=535&hash=C3C585025628FBF0DFF2A45048649A10" title="" />
+					 					<img style = "height: 257px; width: 358px;" src="images/img/trio.jpg" title="" />
 									</div>	
 				 				</div>
 				 				<div class="clearfix"> </div>  		
@@ -127,7 +127,7 @@ while ($row=mysqli_fetch_array($ret)) {
 				 			<div class="event-section1">
 				 				<div class="col-md-4">
 				 					<div class="client-img">
-					 					<img style = "height: 257px; width: 358px;" src="https://sunlightliving.com/wp-content/uploads/2019/08/retirement-home-1.jpg" title="" />
+					 					<img style = "height: 257px; width: 358px;" src="https://www.kenyans.co.ke/files/styles/article_style_mobile/public/images/news/old_guys.jpg?itok=yzw1E4Tw" title="" />
 									</div>
 					 			</div>
 				 				<div class="col-md-4">
@@ -137,7 +137,7 @@ while ($row=mysqli_fetch_array($ret)) {
 				 				</div>
 				 				<div class=" col-md-4">
 				 					<div class="client-img">
-					 					<img style = "height: 257px; width: 358px;" src="https://media.istockphoto.com/id/626702164/photo/senior-black-man-with-hat-looking-at-camera-in-hospice.jpg?s=612x612&w=0&k=20&c=tOPe54ThHCCe6sAMfrtrcmW_5FRsyo0ztdCDUj33skU=" title="" />
+					 					<img style = "height: 257px; width: 358px;" src="https://www.globalsistersreport.org/files/4%20c_6.jpg" title="" />
 									</div>	
 				 				</div>
 				 				</div>
@@ -149,17 +149,17 @@ while ($row=mysqli_fetch_array($ret)) {
 						<div class="event-section">
 				 				<div class="col-md-4">
 				 					<div class="client-img">
-					 					<img style = "height: 257px; width: 358px;" src="https://media.istockphoto.com/id/177767361/photo/financial-advisor-talking-to-senior-couple-at-home.jpg?s=612x612&w=0&k=20&c=pJ4TZ3r63UYstnXNeE7xWncXRwqg-IVXOCRZ4jnxe6Q=" title="" />
+					 					<img style = "height: 257px; width: 358px;" src="https://warwick.ac.uk/fac/soc/law/research/projects/rlaaa3069/image-of-3-elderly-kenyan-women-header-1a.jpg" title="" />
 									</div>
 					 			</div>
 				 				<div class="col-md-4">
 				 					<div class="client-img">
-					 					<img style = "height: 257px; width: 358px;" src="https://media.istockphoto.com/id/1202258623/photo/ive-lived-my-best-life.jpg?s=612x612&w=0&k=20&c=Hfje6pazt3E6rEKiMJFpdqs7UdZj_YBF3_cEFRvicXA=" title="" />
+					 					<img style = "height: 257px; width: 358px;" src="https://www.kenyans.co.ke/files/styles/article_style_mobile/public/images/news/old_guys.jpg?itok=yzw1E4Tw" title="" />
 									</div>	
 				 				</div>
 				 				<div class=" col-md-4">
 				 					<div class="client-img">
-					 					<img style = "height: 257px; width: 358px;" src="https://caringhandsunited.com/info/wp-content/uploads/2014/03/ccsp2.png" title="" />
+					 					<img style = "height: 257px; width: 358px;" src="https://files.globalgiving.org/pfil/41738/pict_large.jpg?m=1566305683000" title="" />
 									</div>	
 				 				</div>
 				 				<div class="clearfix"> </div>  		
@@ -167,7 +167,7 @@ while ($row=mysqli_fetch_array($ret)) {
 				 			<div class="event-section1">
 				 				<div class="col-md-4">
 				 					<div class="client-img">
-					 					<img style = "height: 257px; width: 358px;" src="https://i0.wp.com/thecatholicspirit.com/wp-content/uploads/2020/06/GSR-KENYA-ELDERLY.jpg?fit=550%2C366&ssl=1" title="" />
+					 					<img style = "height: 257px; width: 358px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXdZ6CKaJ4NhE5mblpQ34Cn7H-8rDZ9rP4_w&usqp=CAU" title="" />
 									</div>
 					 			</div>
 				 				<div class="col-md-4">
@@ -177,7 +177,7 @@ while ($row=mysqli_fetch_array($ret)) {
 				 				</div>
 				 				<div class=" col-md-4">
 				 					<div class="client-img">
-					 					<img style = "height: 257px; width: 358px;" src="images/img/hand-exercise.jpg" title="" />
+					 					<img style = "height: 257px; width: 358px;" src="https://media.vaticannews.va/media/content/dam-archive/vaticannews/multimedia/2020/05/07/2020.05.07-Kariobang-home-for-the-aged-in-Nairobi-Kenya.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg" title="" />
 									</div>	
 				 				</div>
 				 				</div>
